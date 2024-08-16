@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 -->
-<H3> Languages and Tools: <H3>
+ Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Java](https://img.shields.io/badge/Java-red)
