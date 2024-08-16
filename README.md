@@ -15,4 +15,12 @@
  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
  ![HTML5](https://img.shields.io/badge/HTML5-orange)
  ![CSS3](https://img.shields.io/badge/CSS3-blue)
+
+
+<h2>  Connect with me: </h2>
+<div>
+
+<p align="Left"> 
+ 
+  <a href="https://www.linkedin.com/in/hitesh1102/" target="_blank"> <img src="https://imgur.com/UhekN8J.png" alt="cplusplus" width="40" height="40"/> </a>
    
