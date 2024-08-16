@@ -2,7 +2,7 @@
    <h1>Hey Developers, This is Hitesh 👋 :)</a> </h1>
 </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hi-tesh&label=Profile%20views&color=blueviolet&style=plastic" alt="hi-tesh" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hi-tesh&abbreviated=true&label=Profile%20views&color=blueviolet&style=plastic" alt="hi-tesh" /> 
 
 
 <h2> Languages and Tools: </h2>
