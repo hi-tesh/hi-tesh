@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 
 -->
  Languages and Tools:
-![Python](https://img.shields.io/badge/Python-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Java](https://img.shields.io/badge/Java-red)
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
+ ![C](https://img.shields.io/badge/C-%E2%80%93%20Programming%20Language-blue)
+ ![Java](https://img.shields.io/badge/Java-red)
+ ![Python](https://img.shields.io/badge/Python-blue)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+ ![HTML5](https://img.shields.io/badge/HTML5-orange)
+ ![CSS3](https://img.shields.io/badge/CSS3-blue)
