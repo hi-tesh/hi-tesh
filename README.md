@@ -4,7 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hi-tesh&abbreviated=true&label=Profile%20views&color=blueviolet&style=plastic" alt="hi-tesh" /> 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhi-tesh%2Fhi-tesh%2Fedit%2Fmain%2FREADME.md&label=Profile%20Visits%3A&labelColor=%23f5e51b&countColor=%23f22613&style=plastic)
 
 
 <h2> Languages and Tools: </h2>
