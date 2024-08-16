@@ -1,7 +1,11 @@
-## Hi there 👋 I'm Hitesh
+<div>
+   <h1>Hey Developers, This is Hitesh 👋 :)</a> </h1>
+</div>
 
-<!--
-**hi-tesh/hi-tesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hi-tesh&label=Profile%20views&color=blueviolet&style=plastic" alt="hi-tesh" /> 
+
+
+
 
 Here are some ideas to get you started:
 
